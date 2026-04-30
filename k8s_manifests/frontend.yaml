@@ -28,6 +28,6 @@ spec:
       containers:
       - name: frontend
         # ECR Image Path
-        image: 692531238663.dkr.ecr.us-east-1.amazonaws.com/my-frontend-app:latest
+        image: 692531238663.dkr.ecr.ap-south-1.amazonaws.com/industry-frontend:latest
         ports:
         - containerPort: 80

@@ -27,7 +27,7 @@ spec:
       containers:
       - name: backend
         # ECR Image Path
-        image: 692531238663.dkr.ecr.us-east-1.amazonaws.com/my-backend-api:latest
+        image: 692531238663.dkr.ecr.ap-south-1.amazonaws.com/industry-backend:latest
         ports:
         - containerPort: 5000
         env:
