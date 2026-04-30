@@ -1,0 +1,4 @@
+echo ".terraform/" > .gitignore
+echo "*.exe" >> .gitignore
+echo "node_modules/" >> .gitignore
+echo ".env" >> .gitignore
