@@ -15,7 +15,7 @@ Each service is containerized and deployed separately, allowing for independent 
 
 ---
 
-## World Architecture
+## ▪️ World Architecture
 The system is designed with a clear separation of concerns, where each layer runs in its own isolated environment inside the cluster.
 
 <img width="3840" height="2559" alt="architecture_4k" src="https://github.com/user-attachments/assets/2cb5ba7b-0682-4323-a5d4-078a22f85313" />
@@ -80,7 +80,7 @@ All resources were deployed using **plain Kubernetes manifests**. This approach 
 ├── backend/              # Node.js API + Dockerfile
 └── README.md             # Project documentation
 ```
-## 🌏 Possible Improvements
+## ✨ Possible Improvements
 *   **Infrastructure as Code:** Provision infrastructure using **Terraform**.
 *   **Automation:** Set up automated **CI/CD pipelines** with **GitHub Actions**.
 *   **Traffic Management:** Replace NodePort with an **Ingress Controller + SSL/TLS termination**.
