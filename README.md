@@ -81,16 +81,18 @@ All resources were deployed using **plain Kubernetes manifests**. This approach 
 ├── backend/              # Node.js API + Dockerfile
 └── README.md             # Project documentation
 ```
-Possible Improvements
-Provision infrastructure using Terraform (Infrastructure as Code).
+## 🌏 Possible Improvements
+*   **Infrastructure as Code:** Provision infrastructure using **Terraform**.
+*   **Automation:** Set up automated **CI/CD pipelines** with **GitHub Actions**.
+*   **Traffic Management:** Replace NodePort with an **Ingress Controller + SSL/TLS termination**.
+*   **Observability:** Add monitoring and alerting using **Prometheus and Grafana**.
 
-Set up automated CI/CD pipelines with GitHub Actions.
+---
 
-Replace NodePort with an Ingress Controller + SSL/TLS termination.
+## 👨‍💻 Engineering Lead
+**Muhammad Ahmed**  
+*Cloud & DevOps Engineer*  
 
-Add monitoring and observability using Prometheus and Grafana.
-
-👨‍💻 Engineering Lead
-[Muhammad Ahmed]
-Cloud & DevOps Engineer
-[LinkedIn] | [---] | [Email]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK_HERE) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_LINK_HERE) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammaad.ahmaad123@gmail.com)
