@@ -1,8 +1,8 @@
-# 🚀 Advanced 3-Tier Microservices Deployment on AWS (K3s)
+# Advanced 3-Tier Microservices Deployment on AWS (K3s)
 
 ---
 
-## 📝 Executive Summary
+## Summary Of This Project 
 This project implements a **3-tier microservices architecture** on an **AWS EC2** instance using a lightweight **K3s (Kubernetes)** cluster. 
 
 The objective was to move beyond simple container orchestration (e.g., Docker Compose) and build a setup that more closely resembles a real-world production deployment. The application is split into three independent services:
@@ -15,7 +15,7 @@ Each service is containerized and deployed separately, allowing for independent 
 
 ---
 
-## 🏗️ Architecture Overview
+## World Architecture
 
 
 
@@ -32,7 +32,7 @@ The system is designed with a clear separation of concerns, where each layer run
 
 ---
 
-## 🛠️ Design Approach
+## Design Approach
 
 ### 1. Cloud Infrastructure
 The application is deployed on AWS with **Security Groups** configured as a fundamental firewall layer:
@@ -80,3 +80,17 @@ All resources were deployed using **plain Kubernetes manifests**. This approach 
 ├── frontend/             # React app + Dockerfile
 ├── backend/              # Node.js API + Dockerfile
 └── README.md             # Project documentation
+```
+Possible Improvements
+Provision infrastructure using Terraform (Infrastructure as Code).
+
+Set up automated CI/CD pipelines with GitHub Actions.
+
+Replace NodePort with an Ingress Controller + SSL/TLS termination.
+
+Add monitoring and observability using Prometheus and Grafana.
+
+👨‍💻 Engineering Lead
+[Muhammad Ahmed]
+Cloud & DevOps Engineer
+[LinkedIn] | [---] | [Email]
