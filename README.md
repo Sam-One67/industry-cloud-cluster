@@ -17,7 +17,7 @@ Each service is containerized and deployed separately, allowing for independent 
 
 ## World Architecture
 
-![Project Diagram](architecture_4k.jpg)
+![Project Diagram](./architecture_4k_3.jpg)
 
 The system is designed with a clear separation of concerns, where each layer runs in its own isolated environment inside the cluster.
 
