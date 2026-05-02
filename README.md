@@ -80,7 +80,7 @@ All resources were deployed using **plain Kubernetes manifests**. This approach 
 ├── backend/              # Node.js API + Dockerfile
 └── README.md             # Project documentation
 ```
-## ✨ Possible Improvements
+## Possible Improvements
 *   **Infrastructure as Code:** Provision infrastructure using **Terraform**.
 *   **Automation:** Set up automated **CI/CD pipelines** with **GitHub Actions**.
 *   **Traffic Management:** Replace NodePort with an **Ingress Controller + SSL/TLS termination**.
