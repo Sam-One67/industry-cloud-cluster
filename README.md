@@ -88,32 +88,12 @@ All resources were deployed using **plain Kubernetes manifests**. This approach 
 
 ---
 
-# 👨‍💻 Muhammad Ahmed
-**Cloud & DevOps Engineer** | *AWS • Terraform • Kubernetes*
+# Muhammad Ahmed
+*Cloud & DevOps Engineer*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel)](YOUR_PORTFOLIO_HERE)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:muhammaad.ahmaad123@gmail.com)
 
 ---
-
-### 🚀 About Me
-I am a **Cloud & DevOps Engineer** focused on building autonomous, self-healing cloud environments. I specialize in Infrastructure as Code (IaC) and containerized microservices, ensuring high availability and scalability for modern applications.
-
-### 🔗 Connect With Me
-<p align="left">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:muhammaad.ahmaad123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-### 🛠️ Tech Stack & Expertise
-- **Cloud:** AWS (S3, Lambda, DynamoDB, EC2, EKS)
-- **IaC & Automation:** Terraform, Ansible
-- **Orchestration:** Docker, Kubernetes (K3s)
-- **Monitoring:** Prometheus, Grafana
-
----
-### 🛠️ Tech Stack & Expertise
-- **Cloud:** AWS (S3, Lambda, DynamoDB, EC2, EKS)
-- **IaC & Automation:** Terraform, Ansible
-- **Orchestration:** Docker, Kubernetes (K3s)
-- **Monitoring:** Prometheus, Grafana
-
----
+**Summary:** Focused on building scalable cloud infrastructure using AWS and Terraform.
