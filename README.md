@@ -110,3 +110,10 @@ I am a **Cloud & DevOps Engineer** focused on building autonomous, self-healing 
 - **Monitoring:** Prometheus, Grafana
 
 ---
+### 🛠️ Tech Stack & Expertise
+- **Cloud:** AWS (S3, Lambda, DynamoDB, EC2, EKS)
+- **IaC & Automation:** Terraform, Ansible
+- **Orchestration:** Docker, Kubernetes (K3s)
+- **Monitoring:** Prometheus, Grafana
+
+---
