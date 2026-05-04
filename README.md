@@ -88,17 +88,15 @@ All resources were deployed using **plain Kubernetes manifests**. This approach 
 
 ---
 
-<div align="center">
+## 👤 Author
 
-# Muhammad Ahmed
-### Cloud & DevOps Engineer ☁️ 🚀
+**Muhammad Ahmed**
+*Cloud & DevOps Engineer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammaad.ahmaad123@gmail.com)
+> Focused on Cloud Infrastructure (AWS), IaC (Terraform), and Container Orchestration.
 
----
-
-**Architecting Scalable Infrastructure | Automating Cloud Operations | Security First 🛡️**
-
-</div>
+| **Connect** | **Links** |
+| :--- | :--- |
+| 💼 **LinkedIn** | [linkedin.com/in/muhammad-ahmed](YOUR_LINK_HERE) |
+| 🌐 **Portfolio** | [muhammad-ahmed.dev](YOUR_LINK_HERE) |
+| 📧 **Email** | [muhammaad.ahmaad123@gmail.com](mailto:muhammaad.ahmaad123@gmail.com) |
