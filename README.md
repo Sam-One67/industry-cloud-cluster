@@ -88,10 +88,17 @@ All resources were deployed using **plain Kubernetes manifests**. This approach 
 
 ---
 
-## 👨‍💻 Engineering Lead
-**Muhammad Ahmed**  
-*Cloud & DevOps Engineer*  
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK_HERE) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_LINK_HERE) 
+# Muhammad Ahmed
+### Cloud & DevOps Engineer ☁️ 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammaad.ahmaad123@gmail.com)
+
+---
+
+**Architecting Scalable Infrastructure | Automating Cloud Operations | Security First 🛡️**
+
+</div>
