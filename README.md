@@ -88,13 +88,10 @@ All resources were deployed using **plain Kubernetes manifests**. This approach 
 
 ---
 
-# Muhammad Ahmed
-#### *Building Scalable & Autonomous Cloud Systems*
+## 👨‍💻 Engineering Lead
+**Muhammad Ahmed**  
+*Cloud & DevOps Engineer*  
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL) • [Email](mailto:muhammaad.ahmaad123@gmail.com) • [GitHub](https://github.com/Sam-One67)
-
----
-
-**Expertise:** AWS • Terraform • Kubernetes • Ansible • Python
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK_HERE) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_LINK_HERE) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammaad.ahmaad123@gmail.com)
